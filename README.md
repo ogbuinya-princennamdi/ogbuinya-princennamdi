@@ -9,6 +9,7 @@ Firebase: Leveraging Firebase for backend services like Authentication, Firestor
 API Integration: Consuming REST APIs, integrating third-party services, and building custom APIs.
 State Management: Using popular state management solutions like Provider, Riverpod, Bloc, and GetX.
 CI/CD: Implementing continuous integration and delivery using tools like GitHub Actions, Bitrise, and Codemagic.
+
 🚀 I’m passionate about solving real-world problems through technology and strive to build apps that not only meet user needs but also provide a seamless experience across 
 different devices.
 
